@@ -1,0 +1,1 @@
+updatedb --prunepaths="/mnt/c"
